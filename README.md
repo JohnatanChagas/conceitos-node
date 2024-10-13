@@ -30,3 +30,5 @@ POST /usuarios: Cria um novo usuário.
 PUT /usuarios/:id: Atualiza os dados de um usuário existente.
 ##
 DELETE /usuarios/:id: Remove um usuário do banco de dados.
+
+![crude-node](https://github.com/user-attachments/assets/c508a215-04eb-4cc3-b558-16f2cd41b7a7)
