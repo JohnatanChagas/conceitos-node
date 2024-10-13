@@ -54,13 +54,3 @@ app.delete("/usuarios/:id", async (req, res) => {
 });
 
 app.listen(3000);
-
-/* 
-chave de acesso mongoDB - johnatan_pereira@hotmail.com
- nome: johnatanchagas 
- senha:   wwpsDPMLHtZjsZsA
-
-
-
- mongodb+srv://johnatanchagas:<db_password>@users.xqsmv.mongodb.net/?retryWrites=true&w=majority&appName=Users
-*/
